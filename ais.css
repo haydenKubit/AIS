@@ -141,12 +141,13 @@ a:hover {
 }
 
 img{
-  width: 150px;
-  border-radius: 75px;
+  
 }
 
-.visLogo{
-
+.visLogo,
+.invisLogo{
+  width: 10%;
+  border-radius: 50%;
 }
 
 .invisLogo{
